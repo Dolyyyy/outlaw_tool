@@ -1,0 +1,28 @@
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CfxTool.csproj.AssemblyReference.cache
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CfxTool.Form1.resources
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CfxTool.Properties.Resources.resources
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CfxTool.csproj.GenerateResource.cache
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CfxTool.csproj.CoreCompileInputs.cache
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.exe.config
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.exe.manifest
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.application
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.exe
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.pdb
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.exe.manifest
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.application
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.exe
+C:\.Fichiers\.Dev\C#\CfxTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.pdb
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.exe.config
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.exe.manifest
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.application
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.exe
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\bin\Debug\CFX Utilitaire par Doly.pdb
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CfxTool.csproj.AssemblyReference.cache
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CfxTool.Form1.resources
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CfxTool.Properties.Resources.resources
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CfxTool.csproj.GenerateResource.cache
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CfxTool.csproj.CoreCompileInputs.cache
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.exe.manifest
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.application
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.exe
+C:\.Fichiers\.Dev\C#\OutlawTool\CfxTool\obj\Debug\CFX Utilitaire par Doly.pdb

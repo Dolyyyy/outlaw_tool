@@ -1,0 +1,11 @@
+Bonjour/Bonsoir !
+
+Cette application a été créée par Doly de Codoly.fr
+
+L'application ne contient aucun Virus et d'ailleurs, le code source est disponible à cette adresse si vous souhaitez y jeter un coup d'oeil : https://github.com/Dolyyyy/cfxtool.
+
+Le but de l'application est d'aider les joueurs CFX (FiveM/RedM) à effectuer des tâches simples, c'est une toute première version.
+
+Si vous avez des idées de nouveautés, vous pouvez envoyer par Discord en privé à "dolyyy", par mail à contact@codoly.fr ou en ouvrant une requête sur le repository github associé.
+
+En vous souhaitant un bon usage !
